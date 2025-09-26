@@ -1,10 +1,10 @@
-# Visual Studio
+# Visual Studio temporary files
 .vs/
 *.suo
 *.user
 *.sln.docstates
 
-# Build results
+# Build results from Visual Studio
 [Dd]ebug/
 [Rr]elease/
 x64/
@@ -14,8 +14,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 
-# C++
+# Executables and intermediate files
 *.exe
+*.dll
+*.lib
 *.ilk
 *.pdb
 *.obj
@@ -23,6 +25,5 @@ bld/
 *.pch
 *.idb
 
-# Other
-*.[Pp]review.[Jj][Ss][Oo][Nn]
+# Log files
 *.log
